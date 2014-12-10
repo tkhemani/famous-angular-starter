@@ -11,6 +11,7 @@ The `master` branch is a viable seed project for Famo.us/Angular.
 
   1. Make sure that you have [npm](http://blog.nodeknockout.com/post/65463770933/how-to-install-node-js-and-npm) installed
   2. In your terminal, run `npm install -g serve`
+  3. In your terminal, run `npm install`
   3. In your terminal, change your directory to famous-angular-starter/app
   4. In your terminal, run `serve`
 
